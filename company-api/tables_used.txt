@@ -1,0 +1,9 @@
+control 1
+PO_Details  3
+PURCHASE    2
+Quality_Inspection 10
+Quality_Inspection_Unloading    1
+Quality_Inspection_Media    3
+Quality_Inspection_Unloading_Media  1
+USER_LOGIN  1
+Party_Master    1
