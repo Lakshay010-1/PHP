@@ -1,0 +1,14 @@
+{
+    "name": "chetan-g/project_01",
+    "description": "Test Project",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Lakshay"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "vlucas/phpdotenv": "^5.7"
+    }
+}
